@@ -23,7 +23,7 @@ class App extends Component {
       });
     });
   }
-
+  
   render() {
     return (
       <div className='container-fluid' style={{ background: '#ff08a0', background: '-webkit-radial-gradient(#ffffff,#ffffff,#ffffff,#ffffff,#ffffff,#ffffff,#ffffff,#f7c8d8,#f7c8d8,#a6caea,#55cdfc)', background: 'radial-gradient(#ffffff,#ffffff,#ffffff,#ffffff,#ffffff,#ffffff,#ffffff,#f7c8d8,#f7c8d8,#a6caea,#55cdfc)' }}>
